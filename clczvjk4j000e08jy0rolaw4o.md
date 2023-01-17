@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Mike:** Hey VT, you taught me about `git` [over here](https://dev.to/vishwastyagi/practical-guide-to-use-git-for-beginners-4ln4). Since then, I am having a good time working with `git`.
+**Mike:** Hey VT, you taught me about `git` [over here](https://vishwastyagi.hashnode.dev/practical-guide-to-using-git-for-beginners). Since then, I am having a good time working with `git`.
 
 I recently heard about the terms **GitHub** and **Open Source Software**. I am curious to know about them. Can you tell me something about them?
 
